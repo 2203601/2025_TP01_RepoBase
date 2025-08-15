@@ -4,3 +4,10 @@ function saludar() {
 }
 
 saludar();
+
+function sumar(a, b){
+    return a+b
+}
+
+
+sumar(2,3)
